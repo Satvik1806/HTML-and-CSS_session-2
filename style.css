@@ -1,6 +1,11 @@
 body{
    font-family: 'Lato', sans-serif;
-} 
+}
+img{
+    align-content: space-around;
+    height: 200px;
+    width: 200px;
+}
 .ik{
     text-align: center;
     
